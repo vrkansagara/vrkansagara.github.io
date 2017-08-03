@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Vallabh Kansagara ( VRKANSAGARA )]]></title>
+    <link href="http://vrkansagara.github.io/blog/tags/Hello World.xml" rel="self"/>
+    <link href="http://vrkansagara.github.io/"/>
+    <updated>2017-08-03T12:05:15+00:00</updated>
+    <id>http://vrkansagara.github.io/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Hello World]]></title>
+            <link href="http://vrkansagara.github.io/blog/2017/07/29/Hello-World"/>
+            <updated>2017-07-29T00:00:00+00:00</updated>
+            <id>http://vrkansagara.github.io/blog/2017/07/29/Hello-World</id>
+            <content type="html"><![CDATA[<p>Hello world using the static site generator.</p>
+]]></content>
+        </entry>
+    </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Vallabh Kansagara ( VRKANSAGARA )]]></title>
+    <link href="http://vrkansagara.github.io/blog/tags/drafts.xml" rel="self"/>
+    <link href="http://vrkansagara.github.io/"/>
+    <updated>2017-08-03T12:05:15+00:00</updated>
+    <id>http://vrkansagara.github.io/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[This is a draft!]]></title>
+            <link href="http://vrkansagara.github.io/blog/2017/07/30/a-draft-post"/>
+            <updated>2017-07-30T00:00:00+00:00</updated>
+            <id>http://vrkansagara.github.io/blog/2017/07/30/a-draft-post</id>
+            <content type="html"><![CDATA[<p>This is a draft post. You will only see this if you are running the <code>dev</code>
+environment (<code>dev</code> is the default).</p>
+
+<p>All draft posts will automatically be tagged <code>draft</code> so they are easy to
+find.</p>
+]]></content>
+        </entry>
+    </feed>

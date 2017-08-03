@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Home &mdash; Vallabh Kansagara ( VRKANSAGARA ) &mdash; KEEP IT SIMPLE STUPID</title>
+        <title>Hello World &mdash; Vallabh Kansagara ( VRKANSAGARA ) &mdash; KEEP IT SIMPLE STUPID</title>
         <meta charset="utf-8">
         <meta name="theme-color" content="#ffffff">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                    <meta name="robots" content="noindex, follow">
-                <link href="http://vrkansagara.github.io/components/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+            <meta name="robots" content="index, follow">
+        <link href="http://vrkansagara.github.io/components/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="http://vrkansagara.github.io/css/style.css" rel="stylesheet" type="text/css" />
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -69,32 +69,50 @@
                 <div class="span8">
                         <article>
         <header>
-            <h2><a href="http://vrkansagara.github.io/blog/2017/07/30/a-draft-post">This is a draft!</a></h2>
-        </header>
-        <div>
-            <p>This is a draft post. You will only see this if you are running the <code>dev</code>
-environment (<code>dev</code> is the default).</p>
-
-<p>All draft posts will automatically be tagged <code>draft</code> so they are easy to
-find.</p>
-
-        </div>
-                    <p class="tags">
-            Tags:
-                        <a href="http://vrkansagara.github.io/blog/tags/drafts">drafts</a>                        </p>
-            </article>
-    <article>
-        <header>
-            <h2><a href="http://vrkansagara.github.io/blog/2017/07/29/Hello-World">Hello World</a></h2>
+            <h2>Hello World <small>post</small></h2>
         </header>
         <div>
             <p>Hello world using the static site generator.</p>
 
         </div>
-                    <p class="tags">
+                    <p class="categories">
+            Categories:
+                        <a href="http://vrkansagara.github.io/blog/categories/Test">Test</a>,                         <a href="http://vrkansagara.github.io/blog/categories/Example">Example</a>                        </p>
+                            <p class="tags">
             Tags:
                         <a href="http://vrkansagara.github.io/blog/tags/Hello%20World">Hello World</a>                        </p>
+        
+                    <nav class="article">
+                <ul>
+                                            <li>Next: <a class="next" href="http://vrkansagara.github.io/blog/2017/07/30/a-draft-post" title="This is a draft!"><span class="title">This is a draft!</span></a></li>
+                                                        </ul>
+            </nav>
             </article>
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'vrkansagara'; // required: replace example with your forum shortname
+
+
+    
+    
+    
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
+</noscript>
+
                 </div>
                 <div class="span4 sidebar">
                     <div class="well">
