@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://vrkansagara.github.io</loc>
+    <loc>https://vrkansagara.github.io</loc>
     <lastmod>2017-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
     <url>
-    <loc>http://vrkansagara.github.io/blog/2017/07/30/a-draft-post</loc>
-    <lastmod>2017-07-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-    <url>
-    <loc>http://vrkansagara.github.io/blog/2017/07/29/Hello-World</loc>
+    <loc>https://vrkansagara.github.io/blog/2017/07/29/Hello-World</loc>
     <lastmod>2017-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
